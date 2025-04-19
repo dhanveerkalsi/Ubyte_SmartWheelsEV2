@@ -10,3 +10,7 @@
    5. Analog Input - Potentiometer
    6. UART - Sending Data  
       Prints ADC, Button Input, and I2C scan Data
+
+**Requirements**  
+   1. NXP S32 Design Studio Version 3.5
+   2. S32K1xx SDK RTM v4.0.1
