@@ -13,7 +13,7 @@
 
 ## Requirements  
    1. NXP S32 Design Studio Version 3.5
-   2. S32K1xx SDK RTM v4.0.1
+   2. S32K1xx SDK RTM v4.0.1 (inside S32DS3.5)
 
 ## Screenshots  
 
